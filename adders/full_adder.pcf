@@ -1,0 +1,12 @@
+//! **************************************************************************
+// Written by: Map P.28xd on Thu Jan 12 12:35:50 2023
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "cin" LOCATE = SITE "J13" LEVEL 1;
+COMP "C" LOCATE = SITE "P11" LEVEL 1;
+COMP "S" LOCATE = SITE "P12" LEVEL 1;
+COMP "a" LOCATE = SITE "K13" LEVEL 1;
+COMP "b" LOCATE = SITE "K14" LEVEL 1;
+SCHEMATIC END;
+

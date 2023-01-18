@@ -1,0 +1,18 @@
+Running: C:\Xilinxdesigntools1\14.2\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o C:/Users/VLSILAB EXAM/adders/counter_isim_beh.exe -prj C:/Users/VLSILAB EXAM/adders/counter_beh.prj work.counter work.glbl 
+ISim P.28xd (signature 0xa0883be4)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/VLSILAB EXAM/adders/counter.v" into library work
+Analyzing Verilog file "C:/Xilinxdesigntools1/14.2/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module clk_divider
+Compiling module counter
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 3 Verilog Units
+Built simulation executable C:/Users/VLSILAB EXAM/adders/counter_isim_beh.exe
+Fuse Memory Usage: 27256 KB
+Fuse CPU Usage: 342 ms

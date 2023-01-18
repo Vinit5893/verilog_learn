@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=C:\Users\VLSILAB EXAM\Xilinx\EEE\adders\impact.xsl
+OUTFILE=C:\Users\VLSILAB EXAM\Xilinx\EEE\adders\impact.xsl
+FAMILY=Multiple
+PART=Multiple
+WORKINGDIR=C:\Users\VLSILAB EXAM\Xilinx\EEE\adders
+LICENSE=iMPACT
+USER_INFO=iMPACT

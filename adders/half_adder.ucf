@@ -1,0 +1,20 @@
+
+
+NET "a" LOC = K13;
+NET "b" LOC = K14;
+NET "S" LOC = P12;
+
+
+NET "C" LOC = P11;
+
+
+NET "cin" LOC = J13;
+
+# PlanAhead Generated physical constraints 
+
+NET "c[0]" LOC = P13;
+NET "c[1]" LOC = N12;
+NET "c[2]" LOC = P12;
+NET "c[3]" LOC = P11;
+NET "clk" LOC = L13;
+NET "rst" LOC = L14;
