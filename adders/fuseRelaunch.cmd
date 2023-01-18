@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/VLSILAB EXAM/adders/counter_isim_beh.exe" -prj "C:/Users/VLSILAB EXAM/adders/counter_beh.prj" "work.counter" "work.glbl" 

@@ -1,8 +1,0 @@
-INTSTYLE=ise
-INFILE=C:\Users\VLSILAB EXAM\Xilinx\EEE\adders\full_adder.ncd
-OUTFILE=C:\Users\VLSILAB EXAM\Xilinx\EEE\adders\full_adder.bit
-FAMILY=Spartan3
-PART=xc3s200-4ft256
-WORKINGDIR=C:\Users\VLSILAB EXAM\Xilinx\EEE\adders
-LICENSE=WebPack
-USER_INFO=__0_0_0

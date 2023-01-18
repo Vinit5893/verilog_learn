@@ -1,8 +1,0 @@
-INTSTYLE=ise
-INFILE=C:\Users\VLSILAB EXAM\adders\counter.ncd
-OUTFILE=C:\Users\VLSILAB EXAM\adders\counter.bit
-FAMILY=Spartan3
-PART=xc3s200-4ft256
-WORKINGDIR=C:\Users\VLSILAB EXAM\adders
-LICENSE=WebPack
-USER_INFO=__0_0_0
